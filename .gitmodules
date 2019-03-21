@@ -1,0 +1,3 @@
+[submodule "Paprika_Engine/dependences/Box2D"]
+	path = Paprika_Engine/dependences/Box2D
+	url = git@github.com:erincatto/Box2D.git
