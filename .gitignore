@@ -35,5 +35,5 @@
 /.vs/
 
 # Binary Folders
-/bin/
-/bin-inter/
+Paprika_Engine/bin/
+Paprika_Engine/bin-inter/
