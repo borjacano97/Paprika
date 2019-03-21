@@ -32,8 +32,8 @@
 *.app
 
 #Visual Studio
-/.vs
+/.vs/
 
 # Binary Folders
-/bin
-/bin-inter
+/bin/
+/bin-inter/
