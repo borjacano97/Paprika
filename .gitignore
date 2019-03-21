@@ -33,3 +33,7 @@
 
 #Visual Studio
 /.vs
+
+# Binary Folders
+/bin
+/bin-inter
